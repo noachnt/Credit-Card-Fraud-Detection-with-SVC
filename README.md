@@ -15,6 +15,10 @@ This program detect fraud based on features.
 	- Open your command prompt or console.
 	- Type `pip install dash`.
 	- Wait until finished.
+- Install numpy.
+	- Open your command prompt or console.
+	- Type `pip install numpy`.
+	- Wait until finished.
 - Install pandas.
 	- Open your command prompt or console.
 	- Type `pip install pandas`.
