@@ -2,9 +2,9 @@
 This program detect fraud based on features.
 
 ## Team Member
-- Liang Cai
-- Noach Nathanael T
-- Calvin Joe 
+- [Liang Cai](https://github.com/acailuv)
+- [Noach Nathanael T.](https://github.com/noachnt)
+- Calvin Joe
 
 ## Requirement
 - Python Version 3.6 or higher. [(Download Python here)](https://www.python.org/downloads/)
